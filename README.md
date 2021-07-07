@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
--수민의 홈페이지- 
+-[수민](my-intro.md)의 홈페이지- 
 
 You can use the [editor on GitHub](https://github.com/Sumin-yun/Sumin-yun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
